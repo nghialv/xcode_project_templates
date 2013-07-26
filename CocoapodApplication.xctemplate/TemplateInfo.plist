@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ancestors</key>
+	<array>
+		<string>com.nghialv.dt.unit.cocoaTouchApplication</string>
+	</array>
+
+  <key>Concrete</key>
+	<true/>
+
+  <key>Definitions</key>
+  <dict>
+    <key>../Podfile</key>
+    <dict>
+      <key>Group</key>
+      <array>
+        <string>Classes</string>
+        <string>Application</string>
+      </array>
+      <key>Path</key>
+      <string>Podfile</string>
+    </dict>
+  </dict>
+
+  <key>Description</key>
+	<string>This template provides a cocoapod application. It provides an application delegate, a window, a pod file, a gitignore file, and MVC structure.</string>
+
+  <key>Identifier</key>
+	<string>com.nghialv.dt.unit.cocoapodApplication</string>
+
+  <key>Kind</key>
+	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
+
+  <key>Nodes</key>
+  <array>
+    <string>../Podfile</string>
+  </array>
+</dict>
+</plist>
