@@ -14,14 +14,14 @@ Enter the following command:
 
 ##### group structure
 
-###### cocoapod templates
+###### cocoapod template
 ![image](https://raw.github.com/nghialv/xcode_project_templates/master/readmeData/xcode_group_structure.png)
 
-###### N1 templates
+###### N1 template
 ![image](https://raw.github.com/nghialv/xcode_project_templates/master/readmeData/n1_template_group_structure.png)
 
 ##### folder structure
-###### cocoapod templates
+###### cocoapod template
 ![image](https://raw.github.com/nghialv/xcode_project_templates/master/readmeData/classes_folder_structure.png)
 
 ![image](https://raw.github.com/nghialv/xcode_project_templates/master/readmeData/resources_folder_structure.png)
