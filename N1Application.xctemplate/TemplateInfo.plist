@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ancestors</key>
+	<array>
+		<string>com.nghialv.dt.unit.cocoaTouchApplication</string>
+	</array>
+
+  <key>Concrete</key>
+	<true/>
+
+  <key>Definitions</key>
+  <dict>
+    <key>../Podfile</key>
+    <dict>
+      <key>Group</key>
+      <array>
+        <string>Classes</string>
+        <string>Application</string>
+      </array>
+      <key>Path</key>
+      <string>Podfile</string>
+    </dict>
+
+    <key>Resources/Plists/DB5.plist</key>
+    <dict>
+      <key>Group</key>
+      <array>
+        <string>Resources</string>
+        <string>Plists</string>
+      </array>
+      <key>Path</key>
+      <string>DB5.plist</string>
+    </dict>
+
+    <!-- DB5 -->
+    <key>Classes/Utilities/___VARIABLE_classPrefix:identifier___DB5.h</key>
+		<dict>
+      <key>Group</key>
+      <array>
+        <string>Classes</string>
+        <string>Utilities</string>
+      </array>
+			<key>Path</key>
+			<string>DB5.h</string>
+		</dict>
+
+    <key>Classes/Utilities/___VARIABLE_classPrefix:identifier___DB5.m</key>
+		<dict>
+      <key>Group</key>
+      <array>
+        <string>Classes</string>
+        <string>Utilities</string>
+      </array>
+			<key>Path</key>
+			<string>DB5.m</string>
+		</dict>
+
+    <!-- View -->
+    <key>Classes/View/___VARIABLE_classPrefix:identifier___View.h</key>
+		<dict>
+      <key>Group</key>
+      <array>
+        <string>Classes</string>
+        <string>View</string>
+      </array>
+			<key>Path</key>
+			<string>View.h</string>
+		</dict>
+
+    <key>Classes/View/___VARIABLE_classPrefix:identifier___View.m</key>
+		<dict>
+      <key>Group</key>
+      <array>
+        <string>Classes</string>
+        <string>View</string>
+      </array>
+			<key>Path</key>
+			<string>View.m</string>
+		</dict>
+
+    <!-- Controller -->
+    <key>Classes/Controller/___VARIABLE_classPrefix:identifier___ViewController.h</key>
+		<dict>
+      <key>Group</key>
+      <array>
+        <string>Classes</string>
+        <string>Controller</string>
+      </array>
+			<key>Path</key>
+			<string>ViewController.h</string>
+		</dict>
+
+    <key>Classes/Controller/___VARIABLE_classPrefix:identifier___ViewController.m</key>
+		<dict>
+      <key>Group</key>
+      <array>
+        <string>Classes</string>
+        <string>Controller</string>
+      </array>
+			<key>Path</key>
+			<string>ViewController.m</string>
+		</dict>
+
+  </dict>
+
+  <key>Description</key>
+	<string>This template provides a cocoapod application. It provides an application delegate, a window, a pod file, a gitignore file, and MVC structure, DB5 file</string>
+
+  <key>Identifier</key>
+	<string>com.nghialv.dt.unit.n1Application</string>
+
+  <key>Kind</key>
+	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
+
+  <key>Nodes</key>
+  <array>
+    <string>../Podfile</string>
+    <string>Resources/Plists/DB5.plist</string>
+    <key>Classes/View/___VARIABLE_classPrefix:identifier___View.h</key>
+    <key>Classes/View/___VARIABLE_classPrefix:identifier___View.m</key>
+    <key>Classes/Controller/___VARIABLE_classPrefix:identifier___ViewController.h</key>
+    <key>Classes/Controller/___VARIABLE_classPrefix:identifier___ViewController.m</key>
+    <key>Classes/Utilities/___VARIABLE_classPrefix:identifier___DB5.h</key>
+    <key>Classes/Utilities/___VARIABLE_classPrefix:identifier___DB5.m</key>
+  </array>
+</dict>
+</plist>
