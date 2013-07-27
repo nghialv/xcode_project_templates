@@ -3,7 +3,9 @@ Xcode Project Templates
 
 #### How to use
 Enter the following command:
-    git clone https://github.com/nghialv/xcode_project_templates.git ~/Library/Developer/Xcode/Templates
+```
+  git clone https://github.com/nghialv/xcode_project_templates.git ~/Library/Developer/Xcode/Templates
+```
 
 #### ScreenShot
 
